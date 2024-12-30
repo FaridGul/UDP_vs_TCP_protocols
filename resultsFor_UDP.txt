@@ -1,0 +1,15 @@
+TCP vs UDP Comparison Results
+
+--- Traffic Results for TCP ---
+
+--- Traffic Results for UDP ---
+Message: Message 1 | Response: b'lsadkjf' | Status: Success | Latency: 7.186599493026733
+Message: Message 2 | Response: b';alsjfd' | Status: Success | Latency: 8.276468515396118
+Message: Message 3 | Response: b'kds;ljf' | Status: Success | Latency: 1.5426549911499023
+Message: Message 4 | Response: b'kds;lf' | Status: Success | Latency: 1.0753440856933594
+Message: Message 5 | Response: b'ksd;afj' | Status: Success | Latency: 0.21788835525512695
+Message: Message 6 | Response: b'dfa' | Status: Success | Latency: 0.05690193176269531
+Message: Message 7 | Response: b'a;sdf' | Status: Success | Latency: 0.23469018936157227
+Message: Message 8 | Response: b'askfh;' | Status: Success | Latency: 0.049126625061035156
+Message: Message 9 | Response: b'asdfka' | Status: Success | Latency: 0.0
+Message: Message 10 | Response: b'fa;sdl' | Status: Success | Latency: 0.0

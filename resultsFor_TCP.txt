@@ -1,0 +1,6 @@
+TCP vs UDP Comparison Results
+
+--- Traffic Results for TCP ---
+
+--- Traffic Results for UDP ---
+Message: Message 1 | Response: None | Status: Failed: [WinError 10054] An existing connection was forcibly closed by the remote host | Latency: None
